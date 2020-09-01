@@ -1,0 +1,168 @@
+{
+    "adventure": {
+      "room": [
+          {
+              "id": 104,
+              "name": "MacKinnon",
+              "short_description": "You are in Mackinnon, a room of mazes.",
+              "long_description": "The room has a maze in it and doors that test all your will power to get open.",
+              "entrance": [
+                {
+                  "id": 100,
+                  "dir": "S"
+                }
+              ]
+            },
+  
+  
+  
+        {
+          "id": 100,
+          "start": "true",
+          "name": "Rozanski",
+          "short_description": "You are in Rozanski the start place for all.",
+          "long_description": "All pupils must pass through Rozanski before beginning their Gryphon adventure.",
+          "entrance": [
+            {
+              "id": 101,
+              "dir": "S"
+            },
+            {
+              "id": 104,
+              "dir": "N"
+            }
+          ],
+          "loot": [
+            {
+              "id": 5
+            }
+          ]
+        },
+        {
+          "id": 101,
+          "name": "Creelman dining hall",
+          "short_description": "You are in Creelman dining hall, a place for great feasts!",
+          "long_description": "Creelman hall is known to be the home of some of the greatest food in all of the galaxies!",
+          "entrance": [
+            {
+              "id": 100,
+              "dir": "N"
+            },
+            {
+              "id": 102,
+              "dir": "W"
+            }
+          ],
+          "loot": [
+            {
+              "id": 2
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "name": "The Arboretum",
+          "short_description": "You are in the Arboretum.",
+          "long_description": "The Arboretum is known to house mystical plants and creatures.",
+          "entrance": [
+            {
+              "id": 101,
+              "dir": "E"
+            },
+            {
+              "id": 103,
+              "dir": "S"
+            },
+            {
+              "id": 105,
+              "dir": "W"
+            }
+          ],
+          "loot": [
+            {
+              "id": 1
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "name": "the basketball court",
+          "short_description": "You are in a nba sized basketball court.",
+          "long_description": "The court has a graphic of a Gryphon embedded in its centre.",
+          "entrance": [
+            {
+              "id": 102,
+              "dir": "N"
+            }
+          ],
+          "loot": [
+            {
+              "id": 3
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "name": "MacNaughton",
+          "short_description": "You are in MacNaughton, this room is often confused with MacKinnon.",
+          "long_description": "This room contains alchemists and scientists  trying to resurrect dead animals from their grave.",
+          "entrance": [
+            {
+              "id": 102,
+              "dir": "E"
+            }
+          ],
+          "loot": [
+            {
+              "id": 4
+            }
+          ]
+        }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      ],
+      "item": [
+        {
+          "id": 1,
+          "name": "sandwich",
+          "desc": "nice blt samwich",
+          "edible":true,
+          "tossable":true
+        },
+        {
+            "id": 5,
+            "name": "vealsamwich",
+            "desc": "nice veal",
+            "edible":true,
+            "tossable":true
+          },
+        {
+          "id": 2,
+          "name": "cloak",
+          "desc": "This magical garment renders whomever or whatever it covers invisible.",
+          "wearable":true,
+          "readable":true
+        },
+        {
+          "id": 3,
+          "name": "scroll",
+          "desc": "The key to life is to surf big waves, write code, and help people out whenever you can"
+        },
+        {
+          "id": 4,
+          "name": "sword",
+          "desc": "It was foretold, that one day, heroes who could wield the sword might reveal themselves.",
+          "tossable":true
+
+        }
+      ]
+    }
+  }

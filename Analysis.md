@@ -1,0 +1,5 @@
+| Method Signature | Method Responsibility | Instance Variables Used | Other class methods called | Objects used with method Calls      | Lines of code                                          |
+|------------------|-----------------------|-------------------------|----------------------------|-------------------------------------|--------------------------------------------------------|
+| Room()           | Initialize            | list here               | probably your setters      | Do you use objects of other classes | Lines of code not counting whitespace or comment lines |
+|                  |                       |                         |                            |                                     |                                                        |
+|                  |                       |                         |                            |                                     |                                                        |

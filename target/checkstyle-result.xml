@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/juliuskapeniak/Desktop/A3/project/src/main/java/adventure/Parser.java">
+<error line="101" column="2" severity="error" message="Method length is 22 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="/Users/juliuskapeniak/Desktop/A3/project/src/main/java/adventure/Adventure.java">
+<error line="119" column="5" severity="error" message="Method length is 72 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="285" column="5" severity="error" message="Method length is 39 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="355" column="5" severity="error" message="Method length is 19 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="/Users/juliuskapeniak/Desktop/A3/project/src/main/java/adventure/Command.java">
+<error line="68" column="5" severity="error" message="Method length is 38 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="/Users/juliuskapeniak/Desktop/A3/project/src/main/java/adventure/Food.java">
+<error line="24" column="1" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="/Users/juliuskapeniak/Desktop/A3/project/src/main/java/adventure/Player.java">
+<error line="112" column="5" severity="error" message="Method length is 20 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="152" column="5" severity="error" message="Method length is 18 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="161" column="16" severity="error" message="&apos;inventory&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/Users/juliuskapeniak/Desktop/A3/project/src/main/java/adventure/Game.java">
+<error line="28" column="5" severity="error" message="Method length is 33 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="40" column="54" severity="error" message="Expression can be simplified." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+<error line="51" column="46" severity="error" message="Expression can be simplified." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+<error line="51" column="69" severity="error" message="Expression can be simplified." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+<error line="147" column="5" severity="error" message="Method length is 16 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="250" column="5" severity="error" message="Method length is 17 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="287" column="5" severity="error" message="Method length is 16 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="423" column="5" severity="error" message="Method length is 45 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="465" column="38" severity="error" message="Expression can be simplified." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+<error line="468" column="48" severity="error" message="Expression can be simplified." source="com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck"/>
+<error line="722" column="5" severity="error" message="Method length is 53 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="/Users/juliuskapeniak/Desktop/A3/project/src/main/java/adventure/GUI.java">
+<error line="45" column="5" severity="error" message="Method length is 128 lines (max allowed is 12)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+</checkstyle>
